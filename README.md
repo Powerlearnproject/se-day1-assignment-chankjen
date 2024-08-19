@@ -11,7 +11,9 @@ Identify and describe at least three key milestones in the evolution of software
 yyuiuiuiii
 hdhhdhd
 List and briefly explain the phases of the Software Development Life Cycle.
-
+hdhdhdhhddh
+dnndndndn
+hfhfdhdjj
 dhhsjsjjsj
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
